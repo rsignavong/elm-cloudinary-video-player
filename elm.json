@@ -1,6 +1,6 @@
 {
     "type": "package",
-    "name": "rsignavong/stencil-cloudinary-video-player",
+    "name": "rsignavong/elm-cloudinary-video-player",
     "summary": "An Elm wrapper for the Cloudinary Video Player",
     "license": "MIT",
     "version": "1.0.0",
