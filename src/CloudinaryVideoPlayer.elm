@@ -42,8 +42,7 @@ view =
 
 {-| Activate the analytics
 
-_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information
-and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
+_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
 
 -}
 analytics : Bool -> Attribute msg
@@ -53,8 +52,7 @@ analytics =
 
 {-| Display videos recommendations
 
-_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information
-and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
+_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
 
 -}
 autoShowRecommendations : Bool -> Attribute msg
@@ -64,8 +62,7 @@ autoShowRecommendations =
 
 {-| Sets video autoplay on load
 
-_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information
-and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
+_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
 
 -}
 autoplay : Bool -> Attribute msg
@@ -75,8 +72,7 @@ autoplay =
 
 {-| Sets video autoplay additional mode on load
 
-_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information
-and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
+_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
 
 -}
 autoplayMode : String -> Attribute msg
@@ -86,8 +82,7 @@ autoplayMode =
 
 {-| Sets Cloudinary cloudname to build video URL
 
-_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information
-and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
+_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
 
 -}
 cloudName : String -> Attribute msg
@@ -97,8 +92,7 @@ cloudName =
 
 {-| Display video player controls
 
-_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information
-and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
+_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
 
 -}
 controls : Bool -> Attribute msg
@@ -108,8 +102,7 @@ controls =
 
 {-| Sets video crop transformation
 
-_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information
-and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
+_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
 
 -}
 crop : String -> Attribute msg
@@ -119,8 +112,7 @@ crop =
 
 {-| Activate video fluid mode
 
-_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information
-and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
+_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
 
 -}
 fluid : Bool -> Attribute msg
@@ -130,8 +122,7 @@ fluid =
 
 {-| Sets font face to all texts displayed on video player
 
-_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information
-and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
+_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
 
 -}
 fontFace : String -> Attribute msg
@@ -141,8 +132,7 @@ fontFace =
 
 {-| Sets transformation height property of video
 
-_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information
-and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
+_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
 
 -}
 height : Int -> Attribute msg
@@ -152,8 +142,7 @@ height =
 
 {-| Activate looping mode of video player
 
-_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information
-and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
+_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
 
 -}
 loop : Bool -> Attribute msg
@@ -163,8 +152,7 @@ loop =
 
 {-| Mute the sounds on video play
 
-_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information
-and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
+_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
 
 -}
 muted : Bool -> Attribute msg
@@ -174,8 +162,7 @@ muted =
 
 {-| Preload data on video load
 
-_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information
-and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
+_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
 
 -}
 preload : String -> Attribute msg
@@ -185,8 +172,7 @@ preload =
 
 {-| Pause the playing video
 
-_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information
-and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
+_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
 
 -}
 pause : Attribute msg
@@ -196,8 +182,7 @@ pause =
 
 {-| Play the current video
 
-_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information
-and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
+_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
 
 -}
 play : Attribute msg
@@ -207,8 +192,7 @@ play =
 
 {-| Sets the Cloudinary video to play
 
-_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information
-and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
+_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
 
 -}
 publicId : String -> Attribute msg
@@ -218,8 +202,7 @@ publicId =
 
 {-| Stop the playing video and set video time to 0
 
-_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information
-and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
+_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
 
 -}
 stop : Attribute msg
@@ -229,8 +212,7 @@ stop =
 
 {-| Sets the video transformation for browser HTML5 native video player in case the Cloudinary Video Player is not loaded
 
-_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information
-and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
+_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
 
 -}
 urlTransformation : String -> Attribute msg
@@ -240,8 +222,7 @@ urlTransformation =
 
 {-| Sets the Id of video HTML tag, used by the WebComponent to load the Cloudinary Video Player
 
-_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information
-and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
+_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
 
 -}
 videoId : String -> Attribute msg
@@ -251,8 +232,7 @@ videoId =
 
 {-| Sets the Title of the video
 
-_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information
-and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
+_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
 
 -}
 videoTitle : String -> Attribute msg
@@ -262,8 +242,7 @@ videoTitle =
 
 {-| Sets transformation width property of video
 
-_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information
-and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
+_See [Cloudinary Video Player API reference](https://cloudinary.com/documentation/video_player_api_reference) for more information and [Cloudinary Video Player Attributes](https://github.com/rsignavong/stencil-cloudinary-video-player/blob/master/src/components/cld-video/readme.md) for details_
 
 -}
 width : Int -> Attribute msg
