@@ -37,7 +37,7 @@ import Json.Encode as Encode
 -}
 view : List (Attribute msg) -> List (Html msg) -> Html msg
 view =
-    node "cld-video-player"
+    node "cld-video"
 
 
 {-| Activate the analytics
